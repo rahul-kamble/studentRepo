@@ -3,7 +3,7 @@ package com.service;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 
-import modelclass.StudentModel;
+import com.modelclass.StudentModel;
 
 public interface StudentService {
 

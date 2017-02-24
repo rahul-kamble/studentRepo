@@ -7,9 +7,8 @@ import java.sql.SQLException;
 import java.sql.Statement;
 
 import com.comman.DbHelper;
+import com.modelclass.StudentModel;
 import com.service.StudentService;
-
-import modelclass.StudentModel;
 
 public class StudentServiceImpl implements StudentService {
 
